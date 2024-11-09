@@ -9,7 +9,7 @@ import Contact from "../components/all-pages/Contact";
 
 const page = () => {
   return (
-    <div className="min-w-min 2xl:">
+    <div className="min-w-min">
     <Header/>
     <Hero/>
     <About/>
