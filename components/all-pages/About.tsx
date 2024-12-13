@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const About = () => {
   return (
-    <section className=" bg-orange-500 my-8 mt-80 " id="section2" >
+    <section className=" bg-orange-500 my-8 mt-80 scroll-m-40" id="section2" >
       <Wrappers>
         <div className="flex flex-col-reverse justify-self-center items-center xl:flex-row-reverse xl:gap-x-32 xl:items-center">
             <div className="flex flex-col text-black my-10 items-center max-w-screen-sm ">

@@ -5,7 +5,7 @@ import { FaLinkedinIn, FaGithub, FaFacebook } from "react-icons/fa";
 
 const Contact = () => {
   return (
-    <section className=" bg-teal-500 duration-200 my-8 mt-80" id="section4">
+    <section className=" bg-teal-500 duration-200 my-8 mt-80 scroll-m-40" id="section4">
       <Wrappers>
         <div className="py-8">
           <h1 className="font-semibold text-5xl font-play justify-self-center">

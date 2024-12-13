@@ -8,7 +8,7 @@ import Link from "next/link";
 
 const Projects = () => {
   return (
-    <section className="bg-yellow-500 my-8 mt-80" id="section3">
+    <section className="bg-yellow-500 my-8 mt-80 scroll-m-20" id="section3">
       <Wrappers>
         <div className=" flex flex-col">
           <div className="flex flex-col text-black my-10 items-center  ">
