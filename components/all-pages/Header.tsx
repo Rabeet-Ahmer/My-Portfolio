@@ -13,7 +13,7 @@ const Header = () => {
     
           <ul className="flex gap-x-5 xl:gap-x-10 font-bold ">
             <li className="font-bold text-lg font-poppins hover:text-red-500 transition-colors duration-300 ">
-              <Link href="/">Home</Link>
+              <Link href="#section1">Home</Link>
             </li>
             <li className="font-bold text-lg font-poppins hover:text-red-500 transition-colors duration-300 ">
               <Link href="#section2">About</Link>
